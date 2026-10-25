@@ -1,18 +1,18 @@
+
 # Education
 
-## Bachelor of Technology (B.Tech)
-- **Branch:** Computer Science and Engineering
-- **Institution:** Your College Name
-- **Study period:** 20XX–20XX
-- **CGPA / Percentage:** Add if you wish to share it
+## B.Tech — CSE (AI & ML)
+Aditya College of Engineering
+2025–2028
+CGPA: 8.95
 
-## Relevant Coursework
-- Programming Fundamentals
-- Data Structures and Algorithms
-- Database Management Systems
-- Computer Networks
-- Software Engineering
+## Diploma — Computer Science and Engineering
+ISTS Women's Engineering College
+Completed: 2025
+Percentage: 92%
 
-## Achievements and Certifications
-- Add verified certifications, hackathons, awards, or academic achievements.
-- Include the year and issuing organisation where relevant.
+## Training and Certifications
+- SmartBridge AI & ML Internship
+- Future Interns Machine Learning Internship
+- IBM SkillsBuild AI
+- Google Cloud Skills Boost — Introduction to Generative AI
