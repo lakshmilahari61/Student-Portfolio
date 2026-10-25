@@ -24,3 +24,18 @@ Add clear, honest descriptions of academic and personal projects.
 - **My contribution:**
 - **What I learned:**
 - **Future improvement:**
+## CivicFix AI
+
+- **Problem:** Reporting civic issues can be time-consuming.
+- **Solution:** An AI-assisted platform for converting issue descriptions and photos into structured reports.
+- **Technologies:** Python, Flask, HTML, CSS, JavaScript.
+- **My contribution:** Developed the prototype and worked on issue-reporting workflows.
+- **Possible improvement:** Improve image classification and location accuracy.
+
+## AgriConnect
+
+- **Problem:** Farmers and buyers need a convenient way to connect.
+- **Solution:** A web application supporting agricultural product discovery and transactions.
+- **Technologies:** Python, Flask, SQLite, HTML, CSS, JavaScript.
+- **My contribution:** Worked on application features, database integration, and dashboards.
+- **Possible improvement:** Improve crop recommendations and disease-detection accuracy.
